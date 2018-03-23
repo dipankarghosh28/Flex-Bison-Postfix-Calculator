@@ -1,3 +1,7 @@
+# By using this code, you agree to appropriate licences
+
+# This code is a part of academic project and is for illustration purposes only
+
 Teammates:
 1.Dipankar Ghosh (dghosh1@binghamton.edu)
 2.Abhishek Gupta (agupta12@binghamton.edu)
